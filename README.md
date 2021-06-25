@@ -1,5 +1,7 @@
 # Three.js Simple Globe
 
+[Demo](https://hungry-ride-d4d0eb.netlify.app/)
+
 Built with vitejs vanilla typescript template.
 
 CSS compiled with Tailwind cli
